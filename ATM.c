@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>             //used only for goto statement
 #include <string.h>             // used for comparing Username string literal
-
+//test
 unsigned long amount = 1000, deposit, withdraw, exchange, exchangedAmount;
 int choice, pin, k, currecyExchange;
 char transaction = 'y';
